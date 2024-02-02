@@ -1,4 +1,4 @@
-# Algortimo de Agrupamento - README
+# Algortimo de Agrupamento
 
 Este repositório apresenta o projeto final desenvolvido como parte da disciplina de Mineração de Dados. O foco do projeto é a implementação de um algoritmo de agrupamento aplicado a um conjunto de dados de notícias. O objetivo principal é identificar padrões e agrupar notícias semelhantes com base no conteúdo de seus títulos. O desenvolvimento abrange desde o carregamento do dataset até a visualização dos resultados, englobando etapas como pré-processamento, treinamento utilizando K-means e análise das métricas
 
